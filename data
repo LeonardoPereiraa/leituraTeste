@@ -1,1 +1,20 @@
-esse é o dado
+{
+  "lista":[
+    {
+    "PRODUTIVIDADE": "média",
+    "PROPAGAÇÃO": "semente/muda",
+    "FERTILIDADE": "Média",
+    "TOL. ACIDEZ": "Média",
+    "TOL. SECA": "Média",
+    "TOL. FRIO": "Baixa",
+    "SOLO ENCHARCADO": "Baixa",
+    "RESIST. CIGARRINHA": "Alta",
+    "ESTABELECIMENTO": "rápido",
+    "RELEVO": "plano/montanhoso",
+    "USO": "pastejo/feno",
+    "TOL. SOMBREAMENTO": "Média",
+    "ANIMAL": "Bovino/caprino-ovino",
+    "CULTIVAR": "Marandu, Xaraés"
+  }
+  ]
+}
